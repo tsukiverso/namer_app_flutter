@@ -53,12 +53,6 @@ Durante o desenvolvimento deste projeto, foi possível aprender e aplicar concei
    ```bash
    flutter run
    ```
-
----
-
-## 📸 Screenshots (opcional)
-*(Adicione aqui imagens do app rodando quando quiser ilustrar)*  
-
 ---
 
 ## 👩‍💻 Autor
