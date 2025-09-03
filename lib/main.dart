@@ -43,8 +43,6 @@ class MyAppState extends ChangeNotifier {
   }
 }
 
-// ...
-
 class MyHomePage extends StatefulWidget {
   @override
   State<MyHomePage> createState() => _MyHomePageState();
@@ -66,7 +64,6 @@ class _MyHomePageState extends State<MyHomePage> {
         throw UnimplementedError('no widget for $selectedIndex');
 }
 
-// ...
     return LayoutBuilder(
       builder: (context, constraints) {
         return Scaffold(
@@ -151,8 +148,6 @@ class GeneratorPage extends StatelessWidget {
   }
 }
 
-// ...
-
 class BigCard extends StatelessWidget {
   const BigCard({
     super.key,
@@ -181,8 +176,6 @@ class BigCard extends StatelessWidget {
     );
   }
 }
-
-// ...
 
 class FavoritesPage extends StatelessWidget {
   @override
